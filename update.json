@@ -2,8 +2,8 @@
   "Code": 0, //0成功, 其他失败
   "Msg": "",
   "UpdateStatus": 2, //0不升级,1普通升级,2强制升级
-  "VersionCode": 705,
-  "VersionName": "3.9.5",
+  "VersionCode": 704,
+  "VersionName": "3.9.4",
   "ModifyContent": "服务器迁移",
   "DownloadUrl": "https://gitee.com/KenshinTang/float-ball-doc/releases/download/V3.9.4/FloatingBall-release-V3.9.4-Build704-20260207.apk",
   "ApkSize": 75219,
