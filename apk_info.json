@@ -11,21 +11,7 @@
     "recommend": true,
     "vipIcon": true,
     "onlyVip": false,
-    "remotePath": "http://voyah.chenmx.net/directlink/VOYAH/float-ball-doc/appstore/apps/fxp_2_1.apk"
-  },
-  {
-    "filename": "副屏助手.apk",
-    "appName": "副屏助手",
-    "packageName": "com.kapplication.voyahlauncher",
-    "versionCode": "4",
-    "versionName": "2.2",
-    "icon": "https://cdn.jsdelivr.net/gh/kenshintang/StorePages@main/icon/副屏助手.png",
-    "updateTime": 1733731827000,
-    "size": 59659738,
-    "recommend": true,
-    "vipIcon": true,
-    "onlyVip": false,
-    "remotePath": "http://voyah.chenmx.net/directlink/VOYAH/float-ball-doc/appstore/apps/fupin-2.2.apk"
+    "remotePath": "https://github.com/KenshinTang/StorePages/releases/download/base/fxp_2_1.apk"
   },
   {
     "filename": "高德车机版.apk",
@@ -64,6 +50,18 @@
     "remotePath": "https://downapp.baidu.com/original_new/322/1/1/1743178403558/BaiduMapForAuto.apk"
   },
   {
+    "filename": "抖音车机版.apk",
+    "appName": "抖音车机版",
+    "packageName": "com.ss.android.ugc.aweme",
+    "versionCode": "9902002",
+    "versionName": "9.9.2002",
+    "icon": "https://cdn.jsdelivr.net/gh/kenshintang/StorePages@main/icon/抖音车机版.png",
+    "updateTime": 1708763978000,
+    "size": 19671025,
+    "recommend": true,
+    "remotePath": "https://github.com/KenshinTang/StorePages/releases/download/base/douyin.apk"
+  },
+  {
     "filename": "B站车机版.apk",
     "appName": "哔哩哔哩",
     "packageName": "com.bilibili.bilithings",
@@ -97,7 +95,7 @@
     "updateTime": 1757148835000,
     "size": 74533423,
     "recommend": true,
-    "remotePath": "http://voyah.chenmx.net/directlink/VOYAH/float-ball-doc/appstore/apps/kw_vip_7.1.2.21.apk"
+    "remotePath": "https://github.com/KenshinTang/StorePages/releases/download/base/kw_vip_7.1.2.21.apk"
   },
   {
     "filename": "央视频.apk",
