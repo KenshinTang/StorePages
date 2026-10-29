@@ -1,53 +1,51 @@
 [
   {
-    "filename": "岚图按键助手.apk",
-    "appName": "岚图按键助手",
-    "packageName": "com.kapplication.voyahsteeringwheelsetting",
-    "versionCode": "5",
-    "versionName": "2.1",
-    "icon": "https://cdn.jsdelivr.net/gh/kenshintang/StorePages@main/icon/岚图按键助手.png",
-    "updateTime": 1718463703412,
-    "size": 7215559,
+    "filename": "高德车机版9.5.apk",
+    "appName": "高德地图车机版V9.5.0(64位)",
+    "packageName": "com.autonavi.amapauto",
+    "versionCode": "26000001",
+    "versionName": "9.5.0.600013",
+    "icon": "https://cdn.jsdelivr.net/gh/kenshintang/StorePages@main/icon/高德车机版.png",
+    "updateTime": 1793247986104,
+    "size": 154947836,
     "recommend": true,
-    "vipIcon": true,
-    "onlyVip": false,
-    "remotePath": "https://github.com/KenshinTang/StorePages/releases/download/base/fxp_2_1.apk"
+    "remotePath": "https://mapdownload.autonavi.com/apps/auto/manual/V950/Auto_9.5.0.600013_release_signed.apk"
   },
   {
-    "filename": "高德车机版.apk",
-    "appName": "高德地图车机版",
+    "filename": "高德车机版9.1.apk",
+    "appName": "高德地图车机版V9.1.0(32位)",
     "packageName": "com.autonavi.amapauto",
     "versionCode": "25000001",
     "versionName": "9.1.0.600087",
     "icon": "https://cdn.jsdelivr.net/gh/kenshintang/StorePages@main/icon/高德车机版.png",
-    "updateTime": 1767672657000,
-    "size": 108388352,
+    "updateTime": 1793247986104,
+    "size": 134728544,
     "recommend": true,
     "remotePath": "https://mapdownload.autonavi.com/apps/auto/manual/V910/Auto_9.1.0.600087_release_signed.apk"
   },
   {
-    "filename": "百度地图V21尝鲜版.apk",
-    "appName": "百度地图V21尝鲜版",
+    "filename": "百度地图V22-64位.apk",
+    "appName": "百度地图汽车版V22.0.1(64位)",
     "packageName": "com.baidu.naviauto",
-    "versionCode": "1560",
-    "versionName": "21.10.1",
-    "icon": "https://cdn.jsdelivr.net/gh/kenshintang/StorePages@main/icon/baiduV21.jpeg",
-    "updateTime": 1748312931000,
-    "size": 166831016,
+    "versionCode": "1645",
+    "versionName": "22.0.1",
+    "icon": "https://cdn.jsdelivr.net/gh/kenshintang/StorePages@main/icon/baiduV21.png",
+    "updateTime": 1793248630790,
+    "size": 162945295,
     "recommend": true,
-    "remotePath": "https://downapp.baidu.com/original_new/322/1/1/1766760751166/BaiduMapForAuto.apk"
+    "remotePath": "https://downapp.baidu.com/BaiduMapForAuto/AndroidPhone/22.0.1.3/1/x640001/20260925113823/BaiduMapForAuto_AndroidPhone_22-0-1-3_x640001.apk"
   },
   {
-    "filename": "百度地图V20.apk",
-    "appName": "百度地图V20",
+    "filename": "百度地图V22-32位.apk",
+    "appName": "百度地图汽车版V22.0.1(32位)",
     "packageName": "com.baidu.naviauto",
-    "versionCode": "1462",
-    "versionName": "20.15.2",
-    "icon": "https://cdn.jsdelivr.net/gh/kenshintang/StorePages@main/icon/%E7%99%BE%E5%BA%A6%E5%9C%B0%E5%9B%BEV20%E5%B0%9D%E9%B2%9C%E7%89%88.png",
-    "updateTime": 1748312931000,
-    "size": 160012697,
+    "versionCode": "1645",
+    "versionName": "22.0.1",
+    "icon": "https://cdn.jsdelivr.net/gh/kenshintang/StorePages@main/icon/baiduV21.png",
+    "updateTime": 1793248630790,
+    "size": 154131051,
     "recommend": true,
-    "remotePath": "https://downapp.baidu.com/original_new/322/1/1/1743178403558/BaiduMapForAuto.apk"
+    "remotePath": "https://downapp.baidu.com/BaiduMapForAuto/AndroidPhone/22.0.1.4/1/x320001/20260925115413/BaiduMapForAuto_AndroidPhone_22-0-1-4_x320001.apk"
   },
   {
     "filename": "抖音车机版.apk",
@@ -96,6 +94,18 @@
     "size": 74533423,
     "recommend": true,
     "remotePath": "https://github.com/KenshinTang/StorePages/releases/download/base/kw_vip_7.1.2.21.apk"
+  },
+  {
+    "filename": "红果免费短剧.apk",
+    "appName": "红果免费短剧",
+    "packageName": "com.phoenix.read",
+    "versionCode": "74332",
+    "versionName": "7.4.3.32",
+    "icon": "https://cdn.jsdelivr.net/gh/kenshintang/StorePages@main/icon/红果免费短剧.png",
+    "updateTime": 1793250011409,
+    "size": 153286579,
+    "recommend": false,
+    "remotePath": "https://lf9-apk.ugapk.cn/package/apk/novelread/12267_74332/novelread_seo_laxin_pc_android_v12267_74332_b929_1793244015.apk"
   },
   {
     "filename": "央视频.apk",
@@ -180,5 +190,18 @@
     "size": 71379038,
     "recommend": false,
     "remotePath": "https://webapk.dangbei.net/down/20230707/qqyy_7.2.0.2_dangbei.apk"
+  },
+  {
+    "filename": "DiPlay.apk",
+    "appName": "DiPlay 无线CarPlay",
+    "packageName": "com.shihab.diplay",
+    "versionCode": "41",
+    "versionName": "0.2.22",
+    "icon": "https://cdn.jsdelivr.net/gh/kenshintang/StorePages@main/icon/DiPlay.png",
+    "updateTime": 1793250579134,
+    "size": 19042758,
+    "recommend": false,
+    "source": "official",
+    "remotePath": "https://gh-proxy.com/https://github.com/shihabal3amri/DiPlay/releases/download/v0.2.22/DiPlay-0.2.22.apk"
   }
 ]
