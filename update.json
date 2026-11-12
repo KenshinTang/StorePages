@@ -2,10 +2,10 @@
   "Code": 0, //0成功, 其他失败
   "Msg": "",
   "UpdateStatus": 2, //0不升级,1普通升级,2强制升级
-  "VersionCode": 704,
-  "VersionName": "3.9.4",
-  "ModifyContent": "服务器迁移",
-  "DownloadUrl": "https://gitee.com/KenshinTang/float-ball-doc/releases/download/V3.9.4/FloatingBall-release-V3.9.4-Build704-20260207.apk",
+  "VersionCode": 400600,
+  "VersionName": "4.0.6",
+  "ModifyContent": "1. 壁纸恢复 \n 2. 新增投屏 \n",
+  "DownloadUrl": "https://gitee.com/KenshinTang/float-ball-doc/releases/download/V4.0.6/FloatingBall-release-V4.0.6-Build400600-20261112.apk",
   "ApkSize": 75219,
-  "ApkMd5": "8732cd8ba12ea580c78538e29295d1eb"
+  "ApkMd5": "2695FE8024C95D0E0D0BD0152AFE4D03"
 }

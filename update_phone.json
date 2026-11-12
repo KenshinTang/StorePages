@@ -1,0 +1,11 @@
+{
+  "Code": 0, //0成功, 其他失败
+  "Msg": "",
+  "UpdateStatus": 1, //0不升级,1普通升级,2强制升级
+  "VersionCode": 400000,
+  "VersionName": "4.0.0",
+  "ModifyContent": "悬浮球助手 4.0：扫码连车机、上传安装包与副屏壁纸、拉日志、VIP 激活。",
+  "DownloadUrl": "https://gitee.com/KenshinTang/float-ball-doc/releases/download/V4.0.0/FBHelper-debug.apk",
+  "ApkSize": 7235, // KB，和车机端同一套字段（XUpdate / 4.0 客户端都按这个读）
+  "ApkMd5": ""
+}
