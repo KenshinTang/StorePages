@@ -2,10 +2,10 @@
   "Code": 0, //0成功, 其他失败
   "Msg": "",
   "UpdateStatus": 2, //0不升级,1普通升级,2强制升级
-  "VersionCode": 400600,
-  "VersionName": "4.0.6",
+  "VersionCode": 400700,
+  "VersionName": "4.0.7",
   "ModifyContent": "1. 壁纸恢复 \n 2. 新增投屏 \n",
-  "DownloadUrl": "https://gitee.com/KenshinTang/float-ball-doc/releases/download/V4.0.6/FloatingBall-release-V4.0.6-Build400600-20261112.apk",
-  "ApkSize": 75219,
-  "ApkMd5": "2695FE8024C95D0E0D0BD0152AFE4D03"
+  "DownloadUrl": "https://gitee.com/KenshinTang/float-ball-doc/releases/download/V4.0.6/FloatingBall-release-V4.0.7-Build400700-20261112.apk",
+  "ApkSize": 59607,
+  "ApkMd5": "A28A7B1ADAAA6452EBCE9DF39140C6F3"
 }
