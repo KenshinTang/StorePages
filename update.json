@@ -2,10 +2,10 @@
   "Code": 0, //0成功, 其他失败
   "Msg": "",
   "UpdateStatus": 2, //0不升级,1普通升级,2强制升级
-  "VersionCode": 400900,
-  "VersionName": "4.0.9",
+  "VersionCode": 401000,
+  "VersionName": "4.1.0",
   "ModifyContent": "1. 车机托管的网页端（手机扫码即用）\n2. VIP 壁纸不限张数\n3. 网页端壁纸网格 / 诊断包发送\n",
-  "DownloadUrl": "https://gitee.com/KenshinTang/float-ball-doc/releases/download/V4.0.6/FloatingBall-release-V4.0.9-Build400900-20261114.apk",
+  "DownloadUrl": "https://gitee.com/KenshinTang/float-ball-doc/releases/download/V4.0.6/FloatingBall-release-V4.1.0-Build401000-20261114.apk",
   "ApkSize": 59848,
-  "ApkMd5": "E8B5B58051EDDBBFED02FBC155700801"
+  "ApkMd5": "764e946976fd188a623b5fe6c11b1a5f"
 }
